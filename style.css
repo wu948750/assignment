@@ -1,8 +1,7 @@
-p {
-    font-size: 40px;
-    color: red;
+#list_id {
+    color: blue;
   }
-
-  li {
-    color: green;
+  
+  .list_class {
+    color: red;
   }
