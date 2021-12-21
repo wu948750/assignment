@@ -1,7 +1,8 @@
-#list_id {
-    color: blue;
+* {
+    margin: 0;
+    padding: 0;
   }
   
-  .list_class {
-    color: red;
+  .box {
+    background-color: red;
   }
